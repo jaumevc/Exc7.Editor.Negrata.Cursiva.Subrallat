@@ -67,7 +67,6 @@ public class VentanaEditor extends JFrame implements ActionListener{
 		scroll.setBounds(10, 80, 380, 360);
 		add(scroll);
 		
-		
 	}
 
 
@@ -97,9 +96,6 @@ public class VentanaEditor extends JFrame implements ActionListener{
 		}
 		
 	}
-
-
-
 
 }
 	
